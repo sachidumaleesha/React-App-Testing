@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       Happy Hakking
       This is a test
+      Kali Linux
     </div>
   );
 }
